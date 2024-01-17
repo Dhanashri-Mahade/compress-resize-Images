@@ -131,10 +131,6 @@ input[type="file"] {
         height: 150px;
     }
 
-    .wrapper.active .upload-box img {
-        height: auto;
-    }
-
     .wrapper .content .row .column {
         width: 100%;
         margin-bottom: 15px;
